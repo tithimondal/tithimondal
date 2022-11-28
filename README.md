@@ -1,7 +1,7 @@
 <h1>Hi! I am Tithi Mondal </H1>
 
 # 💫 About Me:
-I'm currently learning UX design
+I'm currently learning UX design & UI design
 
 
 
